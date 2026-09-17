@@ -322,13 +322,6 @@ body {
     transform: translateY(-2px);
 }
 
-.info-highlight {
-    background: linear-gradient(135deg, rgba(25,135,84,0.1) 0%, rgba(32,201,151,0.1) 100%);
-    border: 1px solid rgba(25,135,84,0.3);
-    border-radius: 8px;
-    padding: 1rem;
-    margin: 1rem 0;
-}
 
 /* --- Grid de Meses --- */
 .month-grid {
